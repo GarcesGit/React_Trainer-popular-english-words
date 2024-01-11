@@ -1,0 +1,22 @@
+.lists {
+  justify-content: center;
+}
+
+.lists_buttons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.lists_words {
+  display: flex;
+  width: 350px;
+  margin: 2px auto;
+  padding: 1px 20px 1px 50px;
+  border: 1px solid #66b0f9;
+}
+
+.column_initialWord,
+.column_translation {
+  width: 175px;
+}

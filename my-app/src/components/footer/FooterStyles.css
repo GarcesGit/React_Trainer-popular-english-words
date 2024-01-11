@@ -1,0 +1,16 @@
+footer {
+    background: linear-gradient(to bottom, #268cf1, #131b41);
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    color: white;
+  }
+  
+  .footer_social {
+    text-align: center;
+  }
+  
+  .social_img {
+    width: 20px;
+    margin: 10px;
+  }
