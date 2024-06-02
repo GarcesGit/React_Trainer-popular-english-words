@@ -63,6 +63,7 @@ function Translator({ allWords }) {
 		saveLearnedWordsToLocalStorage();
 	}
 
+
 	const saveLearnedWordsToLocalStorage = () => {
 		const learnedWords = allWords.filter(words => words.isLearned)
 		localStorage.setItem('finishedWords', JSON.stringify(learnedWords));
