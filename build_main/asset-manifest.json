@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e92bd1ab.css",
+    "main.js": "/static/js/main.eca1802d.js",
+    "static/js/787.d4aba7ab.chunk.js": "/static/js/787.d4aba7ab.chunk.js",
+    "static/media/web.png": "/static/media/web.36af1740df6baea27c62.png",
+    "static/media/logo.png": "/static/media/logo.c0b0292e2cba64332b3a.png",
+    "static/media/ball_nz2.png": "/static/media/ball_nz2.f1d2d7b71260bd984643.png",
+    "static/media/ball_gb.png": "/static/media/ball_gb.661387dbac2f670e4368.png",
+    "static/media/ball_am.png": "/static/media/ball_am.1f6f32da141621b46663.png",
+    "static/media/ball_am3.png": "/static/media/ball_am3.e3cab3cc4a0dd05b5f51.png",
+    "static/media/ball_can2.png": "/static/media/ball_can2.b9f53321db4a4f5d712e.png",
+    "static/media/ball_au.png": "/static/media/ball_au.9cfa6ea65f4641d6f5a9.png",
+    "static/media/ball_nz.png": "/static/media/ball_nz.da878c9493316c4ff771.png",
+    "static/media/ball_gb2.png": "/static/media/ball_gb2.4c7b5a58cc63b4be47d3.png",
+    "static/media/telegram.jpg": "/static/media/telegram.737807bdf9ff9f900390.jpg",
+    "static/media/list.png": "/static/media/list.785259e8ecb7919cf659.png",
+    "static/media/ball_w.png": "/static/media/ball_w.7759fb1abb12db6215c6.png",
+    "static/media/button_en.png": "/static/media/button_en.5b659b58e06fd4f8b606.png",
+    "static/media/title_img.png": "/static/media/title_img.9f78340f207f8d16bc62.png",
+    "static/media/github.jpg": "/static/media/github.eb2467ff9c935cf2d3bf.jpg",
+    "static/media/button_ru.png": "/static/media/button_ru.790b7907ae12104494db.png",
+    "index.html": "/index.html",
+    "main.e92bd1ab.css.map": "/static/css/main.e92bd1ab.css.map",
+    "main.eca1802d.js.map": "/static/js/main.eca1802d.js.map",
+    "787.d4aba7ab.chunk.js.map": "/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e92bd1ab.css",
+    "static/js/main.eca1802d.js"
+  ]
+}
