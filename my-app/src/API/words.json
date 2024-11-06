@@ -8,6 +8,26 @@
     { "initialWord": "salary", "translation": "зарплата месячная", "isLearned": false },
     { "initialWord": "crazy about", "translation": "без ума от", "isLearned": false },
     {
+        "initialWord": "can’t afford to go",
+        "translation": "не можем позволить",
+        "isLearned": false
+    },
+    {
+        "initialWord": "would rather go out than",
+        "translation": "лучше пойти чем",
+        "isLearned": false
+    },
+    {
+        "initialWord": "not keen on going",
+        "translation": "не хочет идти",
+        "isLearned": false
+    },
+    {
+        "initialWord": "looking forward to seeing",
+        "translation": "ждет посмотреть",
+        "isLearned": false
+    },
+    {
         "initialWord": "fantastic at",
         "translation": "фантастический в",
         "isLearned": false
@@ -27,5 +47,10 @@
     { "initialWord": "spent", "translation": "тратить", "isLearned": false },
     { "initialWord": "borrow", "translation": "взять в долг", "isLearned": false },
     { "initialWord": "waste", "translation": "тратить впустую", "isLearned": false },
-    { "initialWord": "earn", "translation": "зарабатывать", "isLearned": false }
+    { "initialWord": "earn", "translation": "зарабатывать", "isLearned": false },
+    { "initialWord": "take after", "translation": "быть похожим", "isLearned": false },
+    { "initialWord": "take up", "translation": "заняться", "isLearned": false },
+    { "initialWord": "take off", "translation": "снимать", "isLearned": false },
+    { "initialWord": "take out", "translation": "пригласить", "isLearned": false },
+    { "initialWord": "take over", "translation": "принимать", "isLearned": false }
 ]
